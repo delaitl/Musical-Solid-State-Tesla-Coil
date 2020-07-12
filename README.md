@@ -3,6 +3,7 @@ Circuit modelisation and design of a Musical Solid State Tesla Coil using hyperf
 
 
 Just launch the .asc file on LTSpice and put the prob on Vout.
+
 You can download LTSpice Simulation Software this way for Windows and MacOs : https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html#
 
 
