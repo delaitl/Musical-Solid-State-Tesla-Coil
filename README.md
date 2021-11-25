@@ -9,4 +9,6 @@ You can download LTSpice Simulation Software this way for Windows and MacOs : ht
 
 ![Circuit](https://user-images.githubusercontent.com/57060005/87250802-b7a5e680-c467-11ea-8646-9119e06dfb0a.png)
 
-Some improvements are coming.
+Happy reading :)
+
+Louis
